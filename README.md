@@ -1,1 +1,1 @@
-# Bypass-Safelinku
+# SC TERMUX
